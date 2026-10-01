@@ -1,4 +1,4 @@
-# 🔀 Pull Requests
+#  Pull Requests
 
 My pull requests submitted during GirlScript Summer of Code 2026.
 
